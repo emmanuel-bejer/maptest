@@ -7,7 +7,7 @@ List<Map<String, dynamic>> eventData = [
   },
   {
     'name': 'Free to use of Telescope',
-    'description': 'World Trade Center',
+    'description': 'World Trade',
     'date': 'Yesterday',
   },
   {

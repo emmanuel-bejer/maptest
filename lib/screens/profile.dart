@@ -75,7 +75,7 @@ class Profile extends StatelessWidget {
           Text(
             "www.github.com/emmanuel-bejer/maptest",
             style: TextStyle(
-                fontSize: 14.0,
+                fontSize: 13.0,
                 color: Color.fromARGB(255, 0, 0, 0),
                 letterSpacing: 2.5,
                 fontWeight: FontWeight.w800,
