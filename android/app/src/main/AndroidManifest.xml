@@ -24,7 +24,7 @@
             android:value="2" />
     </application>
     <meta-data android:name="com.google.android.geo.API_KEY"
-               android:value="AIzaSyANCy9GUPeUOaXccthl3K6oCMl6h-IcYMU"/>
+               android:value="Insert your Google Maps API KEY here"/>
     <queries>
         <intent>
             <action android:name="android.intent.action.PROCESS_TEXT"/>
